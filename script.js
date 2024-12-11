@@ -67,11 +67,11 @@ let b = 13;
 //   console.log(ele);
 // });
 
-let naam = {
-  age: 2,
-  isTrue: true,
-};
+// let naam = {
+//   age: 2,
+//   isTrue: true,
+// };
 
-for (var val in naam) {
-  console.log(naam[val]);
-}
+// for (var val in naam) {
+//   console.log(naam[val]);
+// }
